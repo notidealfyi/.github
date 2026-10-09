@@ -7,8 +7,6 @@
   </a>
 </p>
 
-<p align="center">We make software, games, and other things.</p>
-
 <p align="center">
   <a href="https://notideal.fyi">notideal.fyi</a> · <a href="mailto:hey@notideal.fyi">hey@notideal.fyi</a>
 </p>
